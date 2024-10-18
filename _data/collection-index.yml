@@ -962,3 +962,8 @@
   contact: https://github.com/davzucky/devcontainers-features-wolfi/issues
   repository: https://github.com/davzucky/devcontainers-features-wolfi
   ociReference: ghcr.io/davzucky/devcontainers-features-wolfi  
+- name: devcontainer features by 42atomys
+  maintainer: Atomys
+  contact: https://github.com/42atomys/devcontainers-features/issues
+  repository: https://github.com/42atomys/devcontainers-features
+  ociReference: ghcr.io/42atomys/devcontainers-featuresz
